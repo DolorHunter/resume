@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.30)  18 MAY 2021 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.30)  3 JUL 2021 17:15
 entering extended mode
 **d:/workspace/resume/resume.tex
 (d:/workspace/resume/resume.tex
@@ -231,21 +231,21 @@ LaTeX Info: Redefining \nameref on input line 14.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
-LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 48.
+(Font)              <5> on input line 23.
+LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 54.
 (D:\MiKTeX\tex/latex/psnfss\ts1pnc.fd
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
  [1
 
 {C:/Users/ultrabook/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 142.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
  5020 strings out of 481199
@@ -256,9 +256,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  43i,8n,37p,236b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTeX/fonts/type1/urw/ncntrsbk/uncb8a.pfb><D:/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb><D:/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on d:/workspace\resume\resume.pdf (1 page, 72120 bytes).
+Output written on d:/workspace\resume\resume.pdf (1 page, 71906 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
