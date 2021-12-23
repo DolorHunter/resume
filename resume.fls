@@ -1,4 +1,4 @@
-PWD d:\workspace\resume
+PWD D:\workspace\resume
 INPUT C:\Users\dolor\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT d:\workspace\resume\resume.tex
 OUTPUT resume.log
