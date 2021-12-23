@@ -7,18 +7,19 @@
 \usepackage{hyperref}  % uses hyberlinks
 \hypersetup{hidelinks}
 \usepackage{geometry}
-\geometry{left=1cm,right=2.5cm,top=1.5cm,bottom=1cm}
+\geometry{left=1cm,right=2.5cm,top=1.5cm,bottom=1cm} 
+\usepackage{CJK}
 
 \setlength{\textheight}{9.5in} % increase text height to fit on 1-page 
 
 \begin{document} 
 
-\name{ZIXIANG WANG\\[8pt]}     % the \\[12pt] adds a blank
+\name{Zixiang Wang\\[8pt]}     % the \\[12pt] adds a blank
                         % line after name  
 
 \address{
-    (315)-965-6606 $|$
     Syracuse, NY $|$
+    (315)-965-6606 $|$
     \href{mailto:wangtzuhsiang@gmail.com}{wangtzuhsiang@gmail.com} $|$ 
     \href{https://www.linkedin.com/in/zixiangwang/}{LinkedIn} $|$ 
     \href{https://github.com/DolorHunter}{GitHub} $|$ 
@@ -26,126 +27,151 @@
 }
 
 \begin{resume}
-
-\vspace{-12pt}
-\noindent\rule[0.25\baselineskip]{\textwidth}{1pt}    
+\vspace{-15pt}
+\hspace{-0.55in}
+\noindent\rule[0.25\baselineskip]{19.36cm}{1.2pt}    
 \vspace{-20pt}  
 
 \vspace{-0.1in}
 \section{EDUCATION} 
-    \vspace{-0.1in}	 
+    \vspace{-0.05in}	 
     \begin{tabbing}
-    \hspace{3in}\= \hspace{2in}\= \kill % set up two tab positions
-    {\bf Syracuse University} \>Syracuse, NY \` Aug 2021 - May 2023(expected)
+    \hspace{3.49in}\= \hspace{2in}\= \kill % set up two tab positions
+    {\bf Syracuse University} 
+        \>Syracuse, NY \` Aug 2021 - May 2023(expected)
     \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
     Master of Computer Science      
 
-    \vspace{-0.2in}	 
+    \vspace{-0.15in}	 
     \begin{tabbing}
-    \hspace{3in}\= \hspace{2in}\= \kill % set up two tab positions
-    {\bf Hefei University of Technology} \>P.R.China \` Sep 2017 - Jun 2021
+    \hspace{3.7in}\= \hspace{2in}\= \kill % set up two tab positions
+    {\bf Hefei University of Technology } 
+        
+        \hspace{-0.1in}\begin{CJK}{UTF8}{kai} {\bf 「合肥工業大學」 } \end{CJK} 
+        \>P.R.China \` Sep 2017 - Jun 2021
     \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
     Bachelor of Computer Science   
 
-\vspace{-0.12in}
-\section{EXPERIENCE}
-    \vspace{-0.1in}	
-    \begin{tabbing}
-    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Software Engineer Intern} \>iSoftStone Inc., Shenzhen, P.R.China    \` Summer 2020\\
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-    \vspace{-0.02in}
-    \begin{itemize} \itemsep -2pt %reduce space between items
-    \item Developed back-end interface for data analysis and visualization platform
-    \item Completed development tasks of user authority module 
-    \item Helped spot and debug data portal before product launch
-    \item Collaborated closely with others and consistently beat deadlines
-    \end{itemize}
+\vspace{-12pt}
+\hspace{-0.55in}
+\noindent\rule[0.25\baselineskip]{19.36cm}{0.5pt}    
       
-\vspace{-0.12in}
+\vspace{-0.2in}
 \section{RELATED SKILLS}  
-    \vspace{+0.05in}	 
+    \vspace{+0.15in}
+    \hspace{-0.12in} 
     \begin{tabular}{l p{4.6in}}
-    {\sl Languages:} & Python, Java, C/C++, SQL, XML, HTML, Javascript, CSS, 
-                        JSON, Shell, LaTeX, Markdown  \\ 
-    {\sl Frameworks:} & Spring, React, Django, Qt, Tensorflow, Jekyll \\ 
-    {\sl Tools:}  &  Linux, Nginx, Git, SVN, Postman, Navicat, Maven, Crawler, Photoshop
+    {\sl Programming Languages:} & Python, Java, C/C++, SQL, C\#, HTML, JavaScript, CSS, 
+                        Shell, XML, Markdown, LaTeX \\ 
+    \rule{0in}{0.2in}
+    {\sl Frameworks \& Tools:} & Spring, Django, React, MySQL, SQLite, Linux, Git, 
+                        GitHub Actions, Jenkins, Docker, ASP.NET, Qt, VPS, Nginx, 
+                        MkDocs, Tensorflow, Jekyll
     \end{tabular}   
 
-\vspace{-0.12in}
+\vspace{-5pt}
+\hspace{-0.55in}
+\noindent\rule[0.25\baselineskip]{19.36cm}{0.5pt}    
+
+\vspace{-0.2in}
+\section{EXPERIENCE}
+    \vspace{-0.05in}	
+    \begin{tabbing}
+    \hspace{2.6in}\= \hspace{1.5in}\= \hspace{1.6in}\= \kill % set up two tab positions
+    {\bf Software Engineer Intern} \> iSoftStone Inc. \>  
+                                        Spring, Java, MySQL    \` Jul 2020 - Sep 2020\\
+    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
+    % descriptions
+    \vspace{-0.15in}
+    \textit{Developed {\bf back-end} interface for {\bf data visualization} 
+                platform serves inside the company.}
+    \vspace{+0.05in}
+    \begin{itemize} \itemsep 0.5pt %reduce space between items
+        \item Designed and developed {\bf RESTful} API for user authority and 
+                data portal module using {\bf Spring} and {\bf Java}.
+        \item Created {\bf Threads} using {\bf Asynchronous Programming} to 
+                improve the performance.
+        \item Built the storage system with {\bf MySQL} and {\bf XML}.
+        \item Used {\bf Navicat} to manage the database, and used {\bf Postman} for testing.
+        \item Tracked changes with {\bf SVN} and deployed the project with {\bf Jenkins} 
+                on the server.
+    \end{itemize}
+
+\vspace{+0.05in}
+
+\vspace{-12pt}
+\hspace{-0.55in}
+\noindent\rule[0.25\baselineskip]{19.36cm}{0.5pt}    
+        
+\vspace{-0.2in}
 \section{PROJECTS}
 
-    \vspace{-0.1in}	 
+    % first project
+    \vspace{-0.05in}	 
     \begin{tabbing}
-    \hspace{3in}\= \hspace{2in}\= \kill % set up two tab positions
-    {\bf Auto TBOX Data System} \> Spring, React, Python, MySQL \` Nov 2020 - June 2021 \\
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing 
-    \begin{itemize} \itemsep -2pt %reduce space between items
-    \item Collated and analyzed vehicle fault data fetch by API interface
-    \item Stored collated data and analyzed result to database
-    \item Developed back-end interface and front-end pages for websites
-    \item Graphical presented analysis results(trend, distribution, real-time statistics, etc.) on web front-end
-    \end{itemize}
-
-    \vspace{-0.2in}	
-    \begin{tabbing}
-    \hspace{3in}\= \hspace{2in}\= \kill % set up two tab positions
-    {\bf Image Retrieval System Based on NLP} \> Python, Pytorch, Django, Java \` May 2019 - Apr 2020 \\
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing 
-    \begin{itemize} \itemsep -2pt %reduce space between items
-    \item Developed Image Retrieval System with Neural Image Caption (NIC) and Text Vectorization
-    \item Trained the model and scored 28 on BLEU-4 when the beam search size was 1; scored 30 when size was 3; and scored 23.5 with teacher forcing
-    \item Designed user interface for web and mobile applications 
-    \item Oral presenter and secondary author of the paper
-    \end{itemize}
-
-\vspace{-0.15in}	    
-\section{HONORS AND AWARDS}  
-    \vspace{-0.1in}	
-    \begin{tabbing}
-    \hspace{5in}\= \kill % set up two tab positions
-    HFUT Undergraduate Innovation and Entrepreneurship Training Programs \` 2019 - 2020 \\
-    Academic Progress Scholarship \` 2017 - 2019  \\
-    $2^{nd}$ Place of HFUT Undergraduate Mathematical Contest in Modeling \` Jul 2019 \\
-    Honorable Mention at Chinese Collegiate Computing Competition in Anhui \` May 2019 
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-
-\vspace{+0.05in}	
-\section{TEACHING EXPERIENCE}
-    \vspace{-0.1in}	
-    \begin{tabbing}
-    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Choir Teacher} \> Hefei University of Technology     \` Sep - Oct 2017, 2018\\
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-    \begin{itemize} \itemsep -2pt %reduce space between items
-    \item Managed classes up to 50 students and maintained a positive training environment  
-    \item Built trust and community via clear and timely communication with students  
-    \item Assisted in winning $2^{nd}$ and $1^{st}$ place in College Choir Competition
-    \end{itemize}
-
-\vspace{-0.12in}
-\section{VOLUNTEER EXPERIENCE}
+    \hspace{2.391in}\= \hspace{3in}\= \kill % set up two tab positions
+    \href{https://github.com/DolorHunter/AutoTBOXDataSystem}{\bf Auto TBOX Data System}  \> 
+                Spring, Java, React, JavaScript, Python, MySQL \` Nov 2020 - Jun 2021 \\
+    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing \
+    % descriptions
+    \vspace{-0.13in}
+    \textit{Developed {\bf full-stack} websites for vehicles faults {\bf data analysis} and
+             {\bf visualization} for a {\bf Global 500} corporation.}
     \vspace{-0.1in}
-    \begin{tabbing}
-    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Marathon Volunteer} \> Xiamen, P.R.China     \` Jan 2015\\
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-    \begin{itemize} \itemsep -2pt %reduce space between items
-    \item Provided supplies and directions to athletes and general public
-    \item Maintained order and cleaned up
+    \begin{itemize} \itemsep 0.5pt %reduce space between items
+        \item {\bf Collated} and {\bf analyzed} vehicles faults data fetch by API interface using 
+                {\bf Python} and some libraries.
+        \item Designed and developed {\bf RESTful} API for total 12 modules with 
+                {\bf Spring} and {\bf Java}.
+        \item Developed front-end websites using {\bf React} and {\bf JavaScript} with 
+                {\bf Material-UI} as a template, which were graphically presented analyzed results 
+                like trending, distribution, real-time statistics, etc.
+        \item Set up {\bf MySQL} on {\bf VPS} and used {\bf Navicat} to manage the database, and 
+                using {\bf Postman} for testing.
+        \item Built a {\bf web crawler} with {\bf Python} fetching vehicles configurations for 
+                better presentation.
     \end{itemize}
 
-\vspace{-0.12in}	    
-\section{ADDITIONAL CURRICULAR ACTIVITIES}
-    \vspace{-0.1in}	
+    % second project
+    \vspace{-0.2in}	 
     \begin{tabbing}
-    \hspace{5in}\= \kill % set up two tab positions
-    Active Contributor of \href{https://github.com/v2fly}{V2Fly Organization} \` Dec 2019 - Present \\ 
-    Founder of \href{https://github.com/lib-hfut}{lib-hfut Organization} \` Mar 2019 - Present \\  
-    Technology Blogger on \href{https://dolorhunter.com}{dolorhunter.com} \` Oct 2018 - Present \\
-    Member of Choir Team of Campus Students' Art Troupe \` 2017 - 2019 \\
-    50-kilometer Trail Walker, Hefei City, Anhui Province \` Dec 2017  
-    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
+    \hspace{2.391in}\= \hspace{3in}\= \kill % set up two tab positions
+    \href{https://github.com/DolorHunter/AirlineTicketSystem}{\bf Airline Ticket System}  \> 
+                Django, Python, HTML, CSS, SQLite3 \` Aug 2020 - Nov 2020 \\
+    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing \
+    % descriptions
+    \vspace{-0.13in}
+    \textit{Developed {\bf full-stack} websites for airlines to sell their tickets.}
+    \vspace{+0.05in}
+    \begin{itemize} \itemsep 0.5pt %reduce space between items
+        \item Designed and developed {\bf RESTful} API for tickets, users and admin modules with 
+                {\bf Django} and {\bf Python}.
+        \item Developed front-end websites using {\bf HTML} and {\bf CSS}, and using post method 
+                to use the API.
+        \item Implemented {\bf SQLite3} and use {\bf Navicat} to manage the database.
+        \item Deployed the system with {\bf Nginx} on {\bf VPS} for presentation.
+    \end{itemize}
+
+    % third project
+    \vspace{-0.2in}	 
+    \begin{tabbing}
+    \hspace{2.391in}\= \hspace{3in}\= \kill % set up two tab positions
+    \href{https://github.com/lib-hfut/lib-hfut}{\bf lib-hfut}  \> 
+                Python, MkDocs, Shell, GitHub Action \` Jan 2020 - Present \\
+    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing \
+    % descriptions
+    \vspace{-0.13in}
+    \textit{Built the {\bf websites} with tools and {\bf continuous integration} the repository of 
+            HFUT's library.}
+    \vspace{+0.05in}
+    \begin{itemize} \itemsep 0.5pt %reduce space between items
+        \item Developed scriptS with {\bf Python} to create README files for each folder (subjects). 
+        \item Implemented {\bf MkDocs} commands to build the websites from README files.
+        \item Deployed the library using {\bf GitHub Action} pipeline to build the latest websites 
+                when new commit occurs.
+        \item {\bf Collaborated} closely with other contributors, {\bf reviewed} 
+                pull requests and issues consistently.
+    \end{itemize}
 
 \end{resume}
 \end{document}
