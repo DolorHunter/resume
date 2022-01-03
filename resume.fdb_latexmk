@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1640815471 "d:/workspace/resume/resume.tex" "resume.pdf" "resume" 1640815472
+["pdflatex"] 1641245241 "d:/workspace/resume/resume.tex" "resume.pdf" "resume" 1641245242
   "C:/Users/dolor/AppData/Local/MiKTeX/fonts/pk/modeless/zhmetrics/unikai/dpi600/unikai30.pk" 1640149010 26892 fc4267fecdde1426dcff5575d8965fad ""
   "C:/Users/dolor/AppData/Local/MiKTeX/fonts/pk/modeless/zhmetrics/unikai/dpi600/unikai54.pk" 1640148965 56752 c1b1599f477c92a176a14ee9224ba523 ""
   "C:/Users/dolor/AppData/Local/MiKTeX/fonts/pk/modeless/zhmetrics/unikai/dpi600/unikai59.pk" 1640148958 64260 6389fdc03f18086b748b59f698ab5afc ""
@@ -82,11 +82,11 @@
   "D:/Program Files/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "D:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Program Files/MiKTeX/tex/latex/zhmetrics/c70kai.fd" 1253725371 995 09bcd6ecad950537c79b95b4fbd27974 ""
-  "d:/workspace/resume/resume.tex" 1640815470 7735 9c464db7f80ca97bd7baf5ec56f828a0 ""
+  "d:/workspace/resume/resume.tex" 1641245241 7735 c0c1a869a098bcffab5ce8ebefa3e8b0 ""
   "helvetica.sty" 1632537350 1116 ab68a9059346e95b34e0bd31d69399bd ""
   "res.cls" 1632537350 25869 8ec1e15ab4c53340bc92863668c7be49 ""
   "resume.aux" 1640236847 34 3985256e7290058c681f74d7a3565a19 ""
-  "resume.tex" 1640815470 7735 9c464db7f80ca97bd7baf5ec56f828a0 ""
+  "resume.tex" 1641245241 7735 c0c1a869a098bcffab5ce8ebefa3e8b0 ""
   (generated)
-  "resume.log"
   "resume.pdf"
+  "resume.log"
