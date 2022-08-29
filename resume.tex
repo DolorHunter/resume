@@ -1,5 +1,5 @@
 % LaTeX file for resume 
-% This file uses the resume document class (res.cls)
+% This file uses resume document class (res.cls)
 
 \documentclass{res} 
 \usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
@@ -7,14 +7,14 @@
 \usepackage{hyperref}  % uses hyberlinks
 \hypersetup{hidelinks}
 \usepackage{geometry}
-\geometry{left=1cm,right=2.5cm,top=1.5cm,bottom=1cm} 
-\usepackage{CJK}
+\geometry{left=1.05cm,right=2.55cm,top=1.5cm,bottom=1cm} 
+%\usepackage{CJK}
 
 \setlength{\textheight}{9.5in} % increase text height to fit on 1-page 
 
 \begin{document} 
 
-\name{Zixiang (Hunter) Wang\\[8pt]}     % the \\[12pt] adds a blank
+\name{Zixiang (Hunter) Wang\\[8pt]}     % \\[12pt] adds a blank
                         % line after name  
 
 \address{
@@ -39,31 +39,31 @@
     {\bf Syracuse University} 
         \>Syracuse, NY \` Aug 2021 - May 2023 (expected)
     \end{tabbing}\vspace{-18.5pt}      % suppress blank line after tabbing
-    Master of Computer Science      
+    M.S. in Computer Science      
 
     \vspace{-0.15in}	 
     \begin{tabbing}
     \hspace{3.7in}\= \hspace{2in}\= \kill % set up two tab positions
     {\bf Hefei University of Technology } 
         
-        \hspace{-0.1in}\begin{CJK}{UTF8}{kai} {\bf 「合肥工業大學」 } \end{CJK} 
+        %\hspace{-0.1in}\begin{CJK}{UTF8}{kai} {\bf 「合肥工業大學」 } \end{CJK} 
         \>China \` Sep 2017 - Jun 2021
     \end{tabbing}\vspace{-18.5pt}      % suppress blank line after tabbing
-    Bachelor of Computer Science   
+    B.S. in Computer Science   
 
 \vspace{-12pt}
 \hspace{-0.55in}
 \noindent\rule[0.25\baselineskip]{19.36cm}{0.5pt}    
       
 \vspace{-0.2in}
-\section{RELATED SKILLS}  
+\section{TECHNICAL SKILLS}  
     \vspace{+0.1in}
     \hspace{-0.12in} 
     \begin{tabular}{l p{4.6in}}
     {\sl Programming Languages:} & Python, Java, C/C++, SQL, HTML, JavaScript, 
                         Shell, XML, Markdown, LaTeX \\ 
     \rule{0in}{0.2in}
-    {\sl Frameworks \& Tools:} & Spring, Django, React, GitHub Actions, Jenkins, Docker, Nginx, 
+    {\sl Frameworks \& Tools:} & Spring, Django, React, AWS, GitHub Actions, Jenkins, Docker, Nginx, 
                          MkDocs, Tkinter, Qt, Jekyll, Linux, Git
     \end{tabular}   
 
@@ -82,17 +82,17 @@
     % descriptions
     \vspace{-0.1in}
     \textit{Developed {\bf back-end} interface for {\bf data visualization} 
-                platform serves inside the company.}
+                platform serves inside company.}
     \vspace{+0.05in}
     \begin{itemize} \itemsep 1.5pt %reduce space between items
         \item Designed and developed {\bf RESTful} API for user authority and 
-                data portal module using {\bf Spring} and {\bf Java}.
-        \item Created {\bf Threads} using {\bf Asynchronous Programming} to 
-                improve the performance.
-        \item Built the storage system with {\bf MySQL} and {\bf XML}.
-        \item Implemented {\bf Navicat} to manage the database, and used {\bf Postman} for testing the API.
-        \item Tracked changes with {\bf SVN} and deployed the project with {\bf Jenkins} 
-                on the server.
+                data portal module with {\bf Spring} and {\bf Java}.
+        \item Created {\bf Threads} with {\bf Asynchronous Programming} to 
+                improve performance.
+        \item Built storage system with {\bf MySQL} and {\bf XML}.
+        \item Implemented {\bf Navicat} to manage database, and used {\bf Postman} for testing API.
+        \item Tracked changes with {\bf SVN} and deployed project with {\bf Jenkins} 
+                on server.
     \end{itemize}
 
 \vspace{+0.05in}
@@ -102,7 +102,7 @@
 \noindent\rule[0.25\baselineskip]{19.36cm}{0.5pt}    
         
 \vspace{-0.2in}
-\section{PROJECTS}
+\section{PROJECT}
 
     % first project
     \vspace{0.00in}	 
@@ -117,13 +117,13 @@
              {\bf visualization} for a {\bf Global 500} corporation.}
     \vspace{-0.1in}
     \begin{itemize} \itemsep 1.5pt %reduce space between items
-        \item Designed and developed {\bf RESTful} API for 12 modules with 
+        \item Devised and constructed {\bf RESTful} API for 12 modules with 
                 {\bf Spring} and {\bf Java}.
-        \item Set up {\bf MySQL} on {\bf VPS} and using {\bf Navicat} to manage the database, and 
-                {\bf Postman} for testing the API.
-        \item Developed front-end website using {\bf React} and {\bf JavaScript}, for 
-                graphics presented faults trending, distribution, real-time statistics, etc.
-        \item {\bf Collated} and {\bf analyzed} vehicles faults data fetch by API interface using 
+        \item Set up {\bf MySQL} on {\bf VPS} and using {\bf Navicat} to manage database, and 
+                {\bf Postman} for testing API.
+        \item Developed front-end website with {\bf React} and {\bf JavaScript}, visualized real-time faults statistics,  
+                trending, distribution, etc.
+        \item {\bf Collated} and {\bf analyzed} vehicles faults data fetch by API interface with 
                 {\bf Python}.
         \item Built a {\bf web crawler} with {\bf Python} fetching vehicles configurations for 
                 a better presentation.
@@ -144,10 +144,10 @@
     \begin{itemize} \itemsep 1.5pt %reduce space between items
         \item Designed and developed {\bf RESTful} API for tickets, users and admin modules with 
                 {\bf Django} and {\bf Python}.
-        \item Deployed the system with {\bf Nginx} server on {\bf VPS} for the presentation.
-        \item Built front-end website using {\bf HTML} and {\bf CSS}, and using post method 
-                to call the API.
-        \item Implemented {\bf SQLite3} and use {\bf Navicat} to manage the database.
+        \item Deployed system with {\bf Nginx} server on {\bf VPS} for presentation.
+        \item Built front-end website with {\bf HTML} and {\bf CSS}, and using post method 
+                to call API.
+        \item Implemented {\bf SQLite3} and use {\bf Navicat} to manage database.
     \end{itemize}
 
     % third project
@@ -159,13 +159,13 @@
     \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing \
     % descriptions
     \vspace{-0.1in}
-    \textit{Built the {\bf website} with {\bf MkDocs} and {\bf Continuous Integration} and {\bf Auto-Deploying} the website.}
+    \textit{Built {\bf website} with {\bf MkDocs} and {\bf Continuous Integration} and {\bf Auto-Deploying} website.}
     \vspace{+0.05in}
     \begin{itemize} \itemsep 1.5pt %reduce space between items
-        \item {\bf Deployed} the website using {\bf GitHub Action} pipeline to build the latest website 
+        \item {\bf Deployed} website with {\bf GitHub Action} pipeline to build latest website 
                 when new commit occurs.
-        \item Developed scripts with {\bf Python} to create README files and implemented {\bf MkDocs} to build the website.
-        \item {\bf Collaborated} closely with other contributors, reviewed and merge the pull request.
+        \item Created scripts with {\bf Python} to create README files and executed {\bf MkDocs} to build website.
+        \item {\bf Collaborated} closely with other contributors, reviewed and merge pull request.
         \item Received more than {\bf 200 Stars} on {\bf GitHub}.
     \end{itemize}
 

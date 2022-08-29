@@ -366,29 +366,6 @@ INPUT D:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT D:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT D:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT D:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\CJK.enc
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ot1pnc.fd
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ot1pnc.fd
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ot1pnc.fd
@@ -449,20 +426,6 @@ OUTPUT resume.pdf
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncr7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncb7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncb7t.tfm
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\UTF8\UTF8.enc
-INPUT D:\Program Files\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
-INPUT D:\Program Files\MiKTeX\tex\latex\zhmetrics\c70kai.fd
-INPUT D:\Program Files\MiKTeX\tex\latex\zhmetrics\c70kai.fd
-INPUT D:\Program Files\MiKTeX\tex\latex\zhmetrics\c70kai.fd
-INPUT D:\Program Files\MiKTeX\tex\latex\zhmetrics\c70kai.fd
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai30.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai54.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai80.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai5d.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai69.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai59.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\zhmetrics\unikai\unikai5b.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncro7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncri7t.tfm
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ts1pnc.fd
@@ -483,20 +446,6 @@ INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncri7t.vf
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncri8r.tfm
 INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncr8c.vf
 INPUT D:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai5b.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai5b.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai59.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai59.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai69.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai69.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai5d.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai5d.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai80.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai80.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai54.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai54.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai30.pk
-INPUT C:\Users\dolor\AppData\Local\MiKTeX\fonts\pk\modeless\zhmetrics\unikai\dpi600\unikai30.pk
 INPUT D:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncb8a.pfb
