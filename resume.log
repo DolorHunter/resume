@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.25)  2 SEP 2022 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.25)  10 DEC 2022 00:22
 entering extended mode
 **d:/workspace/resume/resume.tex
 (d:/workspace/resume/resume.tex
@@ -254,15 +254,15 @@ Overfull \hbox (1.35172pt too wide) in paragraph at lines 54--56
  []
 
 
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 70--72
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 71--73
 []  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 87.
+LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 88.
 (D:\Program Files\MiKTeX\tex/latex/psnfss\ts1pnc.fd
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 )
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 100--102
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 101--103
 []  [] 
  []
 
@@ -278,7 +278,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,8n,66p,236b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {D:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncb8a.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on resume.pdf (1 page, 75624 bytes).
+Output written on resume.pdf (1 page, 73978 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
