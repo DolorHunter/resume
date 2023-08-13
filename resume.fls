@@ -427,7 +427,6 @@ INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncr7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncb7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncb7t.tfm
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncro7t.tfm
-INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncri7t.tfm
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ts1pnc.fd
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ts1pnc.fd
 INPUT D:\Program Files\MiKTeX\tex\latex\psnfss\ts1pnc.fd
@@ -442,8 +441,6 @@ INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncb7t.vf
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncb8r.tfm
 INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncro7t.vf
 INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncro8r.tfm
-INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncri7t.vf
-INPUT D:\Program Files\MiKTeX\fonts\tfm\adobe\ncntrsbk\pncri8r.tfm
 INPUT D:\Program Files\MiKTeX\fonts\vf\adobe\ncntrsbk\pncr8c.vf
 INPUT D:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT D:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
@@ -454,5 +451,3 @@ INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncr8a.pfb
 INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncr8a.pfb
 INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncr8a.pfb
 INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncr8a.pfb
-INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncri8a.pfb
-INPUT D:\Program Files\MiKTeX\fonts\type1\urw\ncntrsbk\uncri8a.pfb
