@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.25)  9 NOV 2023 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.25)  3 MAR 2024 11:12
 entering extended mode
 **d:/workspace/resume/resume.tex
 (d:/workspace/resume/resume.tex
@@ -240,29 +240,34 @@ LaTeX Info: Redefining \nameref on input line 15.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 27.
+(Font)              <5> on input line 28.
 
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 29--32
+Overfull \hbox (17.05475pt too wide) detected at line 28
+ [] 
+ []
+
+
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 30--33
 []  []
  []
 
 
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 56--58
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 57--59
 []  [] 
  []
 
 
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 73--75
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 74--76
 []  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 88.
+LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 89.
 (D:\Program Files\MiKTeX\tex/latex/psnfss\ts1pnc.fd
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 )
-Overfull \hbox (1.35172pt too wide) in paragraph at lines 128--130
+Overfull \hbox (1.35172pt too wide) in paragraph at lines 129--131
 []  [] 
  []
 
@@ -278,9 +283,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,8n,66p,236b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {D:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncb8a.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb><D:/Program Files/MiKTeX/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on resume.pdf (1 page, 64107 bytes).
+Output written on resume.pdf (1 page, 64330 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
